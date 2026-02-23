@@ -1,1 +1,3 @@
 # .github
+
+DiverSea organization README
